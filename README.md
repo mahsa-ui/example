@@ -6,4 +6,4 @@
 
   [1]: https://github.com/mahsa-ui
 # senario
-  [2]:https://github.com/mahsa-ui/example/blob/main/scenario.md
+  [2]: https://github.com/mahsa-ui/example/blob/main/scenario.md
